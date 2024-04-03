@@ -17,7 +17,9 @@ export default function App() {
             Coded by{" "}
             <a href="https://github.com/irene0196/dictionary-project">
               Irene Caldera Quevedo
-            </a>
+            </a>{" "}
+            and deployed in{" "}
+            <a href="https://luminous-begonia-1b07f5.netlify.app">Netlify</a>
           </small>
         </footer>
       </div>
